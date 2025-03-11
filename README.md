@@ -668,4 +668,5 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Thinkster.io](http://thinkster.io)
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
-- [CodeCrafters](https://codecrafters.io/)
+ [CodeCrafters](https://codecrafters.io/)
+ I HAVE MADE A FEW CHANGES IN IT. OK 
