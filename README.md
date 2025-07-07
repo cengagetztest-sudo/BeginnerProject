@@ -664,6 +664,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Zig:
 
+- [Ziglings - Solve tiny bugs in software to practice Zig](https://codeberg.org/ziglings/exercises/#ziglings)
+
 ## Additional Resources
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
