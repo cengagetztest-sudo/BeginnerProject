@@ -30,7 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [Zig]()
+- [Zig](#zig)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -661,6 +661,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
+
+## Zig:
 
 ## Additional Resources
 
