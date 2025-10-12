@@ -1,0 +1,49 @@
+# Ignore virtual environments
+django_venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django migration files
+*/migrations/
+*/migrations/*.pyc
+*/migrations/*.py
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Database files (if using SQLite)
+*.sqlite3
+
+# Node modules (if using React or similar in microservices)
+node_modules/
+
+# Test and coverage files
+.coverage
+coverage/
+htmlcov/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Travis CI build cache
+.travis/
+
+# Python wheel files
+*.whl
