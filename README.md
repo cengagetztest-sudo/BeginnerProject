@@ -46,6 +46,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+- [Learn C++ by Building Projects](https://www.learncpp.com/) — A complete step-by-step C++ learning path including hands-on projects.
+
 - Tiny 3D graphics projects
   - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
   - [Understandable RayTracing in 256 lines of bare C++](https://github.com/ssloy/tinyraytracer/wiki)
