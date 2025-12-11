@@ -326,6 +326,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Make Flappy Bird in HTML5 and JavaScript with Phaser
   - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
   - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+- [StickHero](https://github.com/Namitjain07/STICKHERO) - A simple stick-bridge arcade game implemented using JavaFX with full source code and instructions.
 
 ### Desktop Application:
 
