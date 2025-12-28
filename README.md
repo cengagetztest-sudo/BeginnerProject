@@ -211,11 +211,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
-- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+- [Top 95+ Javascript Projects for 2025](https://www.geeksforgeeks.org/javascript/top-javascript-projects/)
+- [40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+- [200 Inspiring JavaScript Projects Ideas](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
+- [Build a Speech Detection Project](https://github.com/wesbos/JavaScript30/tree/master/20%20-%20Speech%20Detection)
+- [Build a Music Player using JavaScript](https://www.geeksforgeeks.org/javascript/create-a-music-player-using-javascript/)
 
 ## HTML and CSS:
 
